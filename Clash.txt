@@ -1,0 +1,62 @@
+mixed-port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+
+proxies:
+  - name: "线路01"
+    type: socks5
+    server: 1.cqmv8.jxsk5.top
+    port: 3168
+    username: aaa000
+    password: 111222
+    udp: true
+
+  - name: "线路02"
+    type: socks5
+    server: cqzn9.jxsk5.top
+    port: 3168
+    username: 0nmoyp
+    password: m62x0T
+    udp: true
+
+  - name: "线路03"
+    type: socks5
+    server: xmub1.jxsk5.top
+    port: 3168
+    username: RhP2Wg
+    password: mEwUHK
+    udp: true
+
+  - name: "线路04"
+    type: socks5
+    server: gyux1.jxsk5.top
+    port: 3168
+    username: Rr7SNM
+    password: NASMY8
+    udp: true
+
+  - name: "线路05"
+    type: socks5
+    server: shdx2.jxsk5.top
+    port: 3168
+    username: jXMBbw
+    password: NC39Dk
+    udp: true
+
+  - name: "线路06"
+    type: socks5
+    server: 36.139.204.154
+    port: 3168
+    username: W4CLD2
+    password: 6JUyQj
+    udp: true
+
+  - name: "线路07"
+    type: socks5
+    server: gzot1.jxsk5.top
+    port: 3168
+    username: hjaszx
+    password: 112233
+    udp: true
