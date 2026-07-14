@@ -399,7 +399,7 @@ proxies:
 
   - name: "线路50"
     type: socks5
-    server: 36.213.97.96
+    server: 36.137.147.94
     port: 3168
     username: hs1237
     password: 123123
