@@ -1,0 +1,406 @@
+mixed-port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+
+proxies:
+  - name: "线路01"
+    type: socks5
+    server: 36.140.44.36
+    port: 3168
+    username: hs1238
+    password: 123123
+    udp: true
+
+  - name: "线路02"
+    type: socks5
+    server: 36.137.145.5
+    port: 3168
+    username: hs1239
+    password: 123123
+    udp: true
+
+  - name: "线路03"
+    type: socks5
+    server: 36.133.127.86
+    port: 3168
+    username: hs12310
+    password: 123123
+    udp: true
+
+  - name: "线路04"
+    type: socks5
+    server: 36.137.100.118
+    port: 3168
+    username: hs12311
+    password: 123123
+    udp: true
+
+  - name: "线路05"
+    type: socks5
+    server: 36.140.14.210
+    port: 3168
+    username: hs12312
+    password: 123123
+    udp: true
+
+  - name: "线路06"
+    type: socks5
+    server: 36.212.177.72
+    port: 3168
+    username: hs12313
+    password: 123123
+    udp: true
+
+  - name: "线路07"
+    type: socks5
+    server: 36.137.229.149
+    port: 3168
+    username: hs12314
+    password: 123123
+    udp: true
+
+  - name: "线路08"
+    type: socks5
+    server: 36.134.189.65
+    port: 3168
+    username: hs12315
+    password: 123123
+    udp: true
+
+  - name: "线路09"
+    type: socks5
+    server: 36.134.95.151
+    port: 3168
+    username: hs12316
+    password: 123123
+    udp: true
+
+  - name: "线路10"
+    type: socks5
+    server: 36.213.19.107
+    port: 3168
+    username: hs12317
+    password: 123123
+    udp: true
+
+  - name: "线路11"
+    type: socks5
+    server: 36.139.143.214
+    port: 3168
+    username: hs12318
+    password: 123123
+    udp: true
+
+  - name: "线路12"
+    type: socks5
+    server: 36.138.76.170
+    port: 3168
+    username: hs12319
+    password: 123123
+    udp: true
+
+  - name: "线路13"
+    type: socks5
+    server: 36.134.181.27
+    port: 3168
+    username: hs12320
+    password: 123123
+    udp: true
+
+  - name: "线路14"
+    type: socks5
+    server: 36.140.102.188
+    port: 3168
+    username: hs12321
+    password: 123123
+    udp: true
+
+  - name: "线路15"
+    type: socks5
+    server: 36.140.119.157
+    port: 3168
+    username: hs12322
+    password: 123123
+    udp: true
+
+  - name: "线路16"
+    type: socks5
+    server: 36.137.0.157
+    port: 3168
+    username: hs12323
+    password: 123123
+    udp: true
+
+  - name: "线路17"
+    type: socks5
+    server: 36.137.172.217
+    port: 3168
+    username: hs12324
+    password: 123123
+    udp: true
+
+  - name: "线路18"
+    type: socks5
+    server: 36.138.54.81
+    port: 3168
+    username: hs12325
+    password: 123123
+    udp: true
+
+  - name: "线路19"
+    type: socks5
+    server: 36.138.162.150
+    port: 3168
+    username: hs12326
+    password: 123123
+    udp: true
+
+  - name: "线路20"
+    type: socks5
+    server: cdxm2.jxsk5.top
+    port: 3168
+    username: hs12327
+    password: 123123
+    udp: true
+
+  - name: "线路21"
+    type: socks5
+    server: xmgz1.jxsk5.top
+    port: 3168
+    username: hs12328
+    password: 123123
+    udp: true
+
+  - name: "线路22"
+    type: socks5
+    server: GZlq1.jxsk5.top
+    port: 3168
+    username: hs12329
+    password: 123123
+    udp: true
+
+  - name: "线路23"
+    type: socks5
+    server: gyyb1.jxsk5.top
+    port: 3168
+    username: hs12330
+    password: 123123
+    udp: true
+
+  - name: "线路24"
+    type: socks5
+    server: cqlo1.jxsk5.top
+    port: 3168
+    username: hs12331
+    password: 123123
+    udp: true
+
+  - name: "线路25"
+    type: socks5
+    server: sdok2.jxsk5.top
+    port: 3168
+    username: hs12332
+    password: 123123
+    udp: true
+
+  - name: "线路26"
+    type: socks5
+    server: shpy2.jxsk5.top
+    port: 3168
+    username: hs12333
+    password: 123123
+    udp: true
+
+  - name: "线路27"
+    type: socks5
+    server: bjhw1.jxsk5.top
+    port: 3168
+    username: hs12334
+    password: 123123
+    udp: true
+
+  - name: "线路28"
+    type: socks5
+    server: szbz1.jxsk5.top
+    port: 3168
+    username: hs12335
+    password: 123123
+    udp: true
+
+  - name: "线路29"
+    type: socks5
+    server: xaok1.jxsk5.top
+    port: 3168
+    username: hs12336
+    password: 123123
+    udp: true
+
+  - name: "线路30"
+    type: socks5
+    server: xjpq1.jxsk5.top
+    port: 3168
+    username: hs12337
+    password: 123123
+    udp: true
+
+  - name: "线路31"
+    type: socks5
+    server: cszw2.jxsk5.top
+    port: 3168
+    username: hs12338
+    password: 123123
+    udp: true
+
+  - name: "线路32"
+    type: socks5
+    server: gzqc2.jxsk5.top
+    port: 3168
+    username: hs12339
+    password: 123123
+    udp: true
+
+  - name: "线路33"
+    type: socks5
+    server: cqjd9.jxsk5.top
+    port: 3168
+    username: hs12340
+    password: 123123
+    udp: true
+
+  - name: "线路34"
+    type: socks5
+    server: xmws2.jxsk5.top
+    port: 3168
+    username: hs12341
+    password: 123123
+    udp: true
+
+  - name: "线路35"
+    type: socks5
+    server: gyux1.jxsk5.top
+    port: 3168
+    username: hs12342
+    password: 123123
+    udp: true
+
+  - name: "线路36"
+    type: socks5
+    server: shqj1.jxsk5.top
+    port: 3168
+    username: hs12343
+    password: 123123
+    udp: true
+
+  - name: "线路37"
+    type: socks5
+    server: xaoy1.jxsk5.top
+    port: 3168
+    username: hs12344
+    password: 123123
+    udp: true
+
+  - name: "线路38"
+    type: socks5
+    server: hzhp11.jxsk5.top
+    port: 3168
+    username: hs12345
+    password: 123123
+    udp: true
+
+  - name: "线路39"
+    type: socks5
+    server: bow32.jxsk5.top
+    port: 3168
+    username: hs12346
+    password: 123123
+    udp: true
+
+  - name: "线路40"
+    type: socks5
+    server: cdwu2.jxsk5.top
+    port: 3168
+    username: hs12347
+    password: 123123
+    udp: true
+
+  - name: "线路41"
+    type: socks5
+    server: sdwy1.jxsk5.top
+    port: 3168
+    username: hs12348
+    password: 123123
+    udp: true
+
+  - name: "线路42"
+    type: socks5
+    server: csvu11.jxsk5.top
+    port: 3168
+    username: hs12349
+    password: 123123
+    udp: true
+
+  - name: "线路43"
+    type: socks5
+    server: 36.139.204.238
+    port: 3168
+    username: hs123
+    password: 123123
+    udp: true
+
+  - name: "线路44"
+    type: socks5
+    server: 36.213.128.37
+    port: 3168
+    username: hs1231
+    password: 123123
+    udp: true
+
+  - name: "线路45"
+    type: socks5
+    server: 36.133.82.66
+    port: 3168
+    username: hs1232
+    password: 123123
+    udp: true
+
+  - name: "线路46"
+    type: socks5
+    server: 36.212.102.114
+    port: 3168
+    username: hs1233
+    password: 123123
+    udp: true
+
+  - name: "线路47"
+    type: socks5
+    server: 36.138.84.62
+    port: 3168
+    username: hs1234
+    password: 123123
+    udp: true
+
+  - name: "线路48"
+    type: socks5
+    server: 36.140.179.35
+    port: 3168
+    username: hs1235
+    password: 123123
+    udp: true
+
+  - name: "线路49"
+    type: socks5
+    server: 36.212.141.142
+    port: 3168
+    username: hs1236
+    password: 123123
+    udp: true
+
+  - name: "线路50"
+    type: socks5
+    server: 36.213.97.96
+    port: 3168
+    username: hs1237
+    password: 123123
+    udp: true
