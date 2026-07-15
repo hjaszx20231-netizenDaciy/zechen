@@ -23,7 +23,7 @@ proxies:
 
   - name: "线路03"
     type: socks5
-    server: 36.133.127.86
+    server: 36.213.128.126
     port: 3168
     username: hs12310
     password: 123123
@@ -183,7 +183,7 @@ proxies:
 
   - name: "线路23"
     type: socks5
-    server: gyyb1.jxsk5.top
+    server: bpm47.jxsk5.top
     port: 3168
     username: hs12330
     password: 123123
