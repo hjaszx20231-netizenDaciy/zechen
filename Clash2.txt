@@ -404,3 +404,403 @@ proxies:
     username: hs1237
     password: 123123
     udp: true
+
+  - name: "线路51"
+    type: socks5
+    server: 36.212.228.54
+    port: 3168
+    username: aa12323
+    password: 123123
+    udp: true
+
+  - name: "线路52"
+    type: socks5
+    server: 36.140.14.123
+    port: 3168
+    username: aa12324
+    password: 123123
+    udp: true
+
+  - name: "线路53"
+    type: socks5
+    server: 36.140.144.93
+    port: 3168
+    username: aa12325
+    password: 123123
+    udp: true
+
+  - name: "线路54"
+    type: socks5
+    server: 36.138.191.225
+    port: 3168
+    username: aa12326
+    password: 123123
+    udp: true
+
+  - name: "线路55"
+    type: socks5
+    server: 36.137.229.4
+    port: 3168
+    username: aa12327
+    password: 123123
+    udp: true
+
+  - name: "线路56"
+    type: socks5
+    server: 36.137.229.169
+    port: 3168
+    username: aa12328
+    password: 123123
+    udp: true
+
+  - name: "线路57"
+    type: socks5
+    server: 36.133.63.155
+    port: 3168
+    username: aa12329
+    password: 123123
+    udp: true
+
+  - name: "线路58"
+    type: socks5
+    server: 36.134.192.242
+    port: 3168
+    username: aa12330
+    password: 123123
+    udp: true
+
+  - name: "线路59"
+    type: socks5
+    server: 36.134.95.234
+    port: 3168
+    username: aa12331
+    password: 123123
+    udp: true
+
+  - name: "线路60"
+    type: socks5
+    server: 36.134.95.140
+    port: 3168
+    username: aa12332
+    password: 123123
+    udp: true
+
+  - name: "线路61"
+    type: socks5
+    server: 36.212.30.114
+    port: 3168
+    username: aa12333
+    password: 123123
+    udp: true
+
+  - name: "线路62"
+    type: socks5
+    server: 36.140.67.141
+    port: 3168
+    username: aa12334
+    password: 123123
+    udp: true
+
+  - name: "线路63"
+    type: socks5
+    server: 36.139.143.206
+    port: 3168
+    username: aa12335
+    password: 123123
+    udp: true
+
+  - name: "线路64"
+    type: socks5
+    server: 36.139.143.26
+    port: 3168
+    username: aa12336
+    password: 123123
+    udp: true
+
+  - name: "线路65"
+    type: socks5
+    server: 36.137.141.204
+    port: 3168
+    username: aa12337
+    password: 123123
+    udp: true
+
+  - name: "线路66"
+    type: socks5
+    server: 36.137.132.158
+    port: 3168
+    username: aa12338
+    password: 123123
+    udp: true
+
+  - name: "线路67"
+    type: socks5
+    server: 36.134.181.75
+    port: 3168
+    username: aa12339
+    password: 123123
+    udp: true
+
+  - name: "线路68"
+    type: socks5
+    server: 36.134.181.247
+    port: 3168
+    username: aa12340
+    password: 123123
+    udp: true
+
+  - name: "线路69"
+    type: socks5
+    server: 36.140.102.92
+    port: 3168
+    username: aa12341
+    password: 123123
+    udp: true
+
+  - name: "线路70"
+    type: socks5
+    server: 36.140.102.75
+    port: 3168
+    username: aa12342
+    password: 123123
+    udp: true
+
+  - name: "线路71"
+    type: socks5
+    server: 36.140.119.153
+    port: 3168
+    username: aa12343
+    password: 123123
+    udp: true
+
+  - name: "线路72"
+    type: socks5
+    server: 36.140.119.225
+    port: 3168
+    username: aa12344
+    password: 123123
+    udp: true
+
+  - name: "线路73"
+    type: socks5
+    server: 36.137.0.100
+    port: 3168
+    username: aa12345
+    password: 123123
+    udp: true
+
+  - name: "线路74"
+    type: socks5
+    server: 36.137.171.52
+    port: 3168
+    username: aa12346
+    password: 123123
+    udp: true
+
+  - name: "线路75"
+    type: socks5
+    server: 36.137.172.10
+    port: 3168
+    username: aa12347
+    password: 123123
+    udp: true
+
+  - name: "线路76"
+    type: socks5
+    server: 36.138.161.111
+    port: 3168
+    username: aa12348
+    password: 123123
+    udp: true
+
+  - name: "线路77"
+    type: socks5
+    server: 36.138.161.155
+    port: 3168
+    username: aa12349
+    password: 123123
+    udp: true
+
+  - name: "线路78"
+    type: socks5
+    server: 36.138.90.193
+    port: 3168
+    username: aa123
+    password: 123123
+    udp: true
+
+  - name: "线路79"
+    type: socks5
+    server: 36.134.36.52
+    port: 3168
+    username: aa1231
+    password: 123123
+    udp: true
+
+  - name: "线路80"
+    type: socks5
+    server: 36.213.128.233
+    port: 3168
+    username: aa1232
+    password: 123123
+    udp: true
+
+  - name: "线路81"
+    type: socks5
+    server: 36.213.128.32
+    port: 3168
+    username: aa1233
+    password: 123123
+    udp: true
+
+  - name: "线路82"
+    type: socks5
+    server: 36.134.111.31
+    port: 3168
+    username: aa1234
+    password: 123123
+    udp: true
+
+  - name: "线路83"
+    type: socks5
+    server: 36.133.83.36
+    port: 3168
+    username: aa1235
+    password: 123123
+    udp: true
+
+  - name: "线路84"
+    type: socks5
+    server: 36.212.102.232
+    port: 3168
+    username: aa1236
+    password: 123123
+    udp: true
+
+  - name: "线路85"
+    type: socks5
+    server: 36.212.102.121
+    port: 3168
+    username: aa1237
+    password: 123123
+    udp: true
+
+  - name: "线路86"
+    type: socks5
+    server: 36.137.148.12
+    port: 3168
+    username: aa1238
+    password: 123123
+    udp: true
+
+  - name: "线路87"
+    type: socks5
+    server: 36.137.148.155
+    port: 3168
+    username: aa1239
+    password: 123123
+    udp: true
+
+  - name: "线路88"
+    type: socks5
+    server: 36.133.121.230
+    port: 3168
+    username: aa12310
+    password: 123123
+    udp: true
+
+  - name: "线路89"
+    type: socks5
+    server: 36.140.179.115
+    port: 3168
+    username: aa12311
+    password: 123123
+    udp: true
+
+  - name: "线路90"
+    type: socks5
+    server: 36.140.179.109
+    port: 3168
+    username: aa12312
+    password: 123123
+    udp: true
+
+  - name: "线路91"
+    type: socks5
+    server: 36.213.97.96
+    port: 3168
+    username: aa12313
+    password: 123123
+    udp: true
+
+  - name: "线路92"
+    type: socks5
+    server: 36.213.97.8
+    port: 3168
+    username: aa12314
+    password: 123123
+    udp: true
+
+  - name: "线路93"
+    type: socks5
+    server: 36.140.44.112
+    port: 3168
+    username: aa12315
+    password: 123123
+    udp: true
+
+  - name: "线路94"
+    type: socks5
+    server: 36.140.44.153
+    port: 3168
+    username: aa12316
+    password: 123123
+    udp: true
+
+  - name: "线路95"
+    type: socks5
+    server: 36.137.145.41
+    port: 3168
+    username: aa12317
+    password: 123123
+    udp: true
+
+  - name: "线路96"
+    type: socks5
+    server: 36.137.145.40
+    port: 3168
+    username: aa12318
+    password: 123123
+    udp: true
+
+  - name: "线路97"
+    type: socks5
+    server: 36.133.125.116
+    port: 3168
+    username: aa12319
+    password: 123123
+    udp: true
+
+  - name: "线路98"
+    type: socks5
+    server: 36.133.122.143
+    port: 3168
+    username: aa12320
+    password: 123123
+    udp: true
+
+  - name: "线路99"
+    type: socks5
+    server: 36.137.100.208
+    port: 3168
+    username: aa12321
+    password: 123123
+    udp: true
+
+  - name: "线路100"
+    type: socks5
+    server: 36.137.100.48
+    port: 3168
+    username: aa12322
+    password: 123123
+    udp: true
