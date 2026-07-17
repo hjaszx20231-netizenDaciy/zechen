@@ -4,56 +4,178 @@ mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
 
+
+
 proxies:
-  - name: "线路01"
+  - name: "SK5-01"
     type: socks5
-    server: 1.cqmv8.jxsk5.top
-    port: 3168
-    username: aaa000
-    password: 111222
+    server: s104785.ips5.vip
+    port: 9125
+    username: 3918797
+    password: ae98e0bb5
     udp: true
-
-  - name: "线路02"
+  - name: "SK5-02"
     type: socks5
-    server: cqzn9.jxsk5.top
-    port: 3168
-    username: 0nmoyp
-    password: m62x0T
+    server: 171.111.195.128
+    port: 9125
+    username: 3918796
+    password: a36323655
     udp: true
-
-  - name: "线路03"
+  - name: "SK5-03"
     type: socks5
-    server: xmub1.jxsk5.top
-    port: 3168
-    username: RhP2Wg
-    password: mEwUHK
+    server: 223.244.38.199
+    port: 9125
+    username: 3918795
+    password: a02f837c9
     udp: true
-
-  - name: "线路04"
+  - name: "SK5-04"
     type: socks5
-    server: gyux1.jxsk5.top
-    port: 3168
-    username: Rr7SNM
-    password: NASMY8
+    server: s3064.ips5.vip
+    port: 9125
+    username: 3918794
+    password: aa452501b
     udp: true
-
-  - name: "线路05"
+  - name: "SK5-05"
     type: socks5
-    server: shdx2.jxsk5.top
-    port: 3168
-    username: jXMBbw
-    password: NC39Dk
+    server: 223.15.242.158
+    port: 9125
+    username: 3918793
+    password: a15b79ff9
     udp: true
-
-  - name: "线路06"
+  - name: "SK5-06"
     type: socks5
-    server: 36.139.204.154
-    port: 3168
-    username: W4CLD2
-    password: 6JUyQj
+    server: 27.185.204.115
+    port: 9125
+    username: 3918792
+    password: a95ccd717
     udp: true
-
-  - name: "线路07"
+  - name: "SK5-07"
+    type: socks5
+    server: s123765.ips5.vip
+    port: 9125
+    username: 3918791
+    password: a6976d235
+    udp: true
+  - name: "SK5-08"
+    type: socks5
+    server: 171.111.194.67
+    port: 9125
+    username: 3918790
+    password: a4264d2ce
+    udp: true
+  - name: "SK5-09"
+    type: socks5
+    server: 223.244.29.73
+    port: 9125
+    username: 3918789
+    password: aa6913340
+    udp: true
+  - name: "SK5-10"
+    type: socks5
+    server: s104778.ips5.vip
+    port: 9125
+    username: 3918788
+    password: a555c6baf
+    udp: true
+  - name: "SK5-11"
+    type: socks5
+    server: 110.166.69.216
+    port: 9125
+    username: 3918787
+    password: a17e585dd
+    udp: true
+  - name: "SK5-12"
+    type: socks5
+    server: 111.172.197.93
+    port: 9125
+    username: 3918786
+    password: ad8593653
+    udp: true
+  - name: "SK5-13"
+    type: socks5
+    server: 220.167.143.3
+    port: 9125
+    username: 3918785
+    password: a5304117a
+    udp: true
+  - name: "SK5-14"
+    type: socks5
+    server: s104792.ips5.vip
+    port: 9125
+    username: 3918784
+    password: a227aee6d
+    udp: true
+  - name: "SK5-15"
+    type: socks5
+    server: s123757.ips5.vip
+    port: 9125
+    username: 3918783
+    password: a3904f8ec
+    udp: true
+  - name: "SK5-16"
+    type: socks5
+    server: 182.43.81.183
+    port: 9125
+    username: 3918782
+    password: a5372e799
+    udp: true
+  - name: "SK5-17"
+    type: socks5
+    server: 36.103.168.198
+    port: 9125
+    username: 3918781
+    password: aa0563271
+    udp: true
+  - name: "SK5-18"
+    type: socks5
+    server: s55214.ips5.vip
+    port: 9125
+    username: 3918780
+    password: a50065894
+    udp: true
+  - name: "SK5-19"
+    type: socks5
+    server: s127260.ips5.vip
+    port: 9125
+    username: 3918779
+    password: aab53338c
+    udp: true
+  - name: "SK5-20"
+    type: socks5
+    server: s127258.ips5.vip
+    port: 9125
+    username: 3918778
+    password: aa4f7bc27
+    udp: true
+  - name: "SK5-21"
+    type: socks5
+    server: s104738.ips5.vip
+    port: 9125
+    username: 3918777
+    password: ac88afa31
+    udp: true
+  - name: "SK5-22"
+    type: socks5
+    server: s55219.ips5.vip
+    port: 9125
+    username: 3918776
+    password: a6276c43d
+    udp: true
+  - name: "SK5-23"
+    type: socks5
+    server: s34345.ips5.vip
+    port: 9125
+    username: 3918775
+    password: ab031f154
+    udp: true
+  - name: "SK5-24"
+    type: socks5
+    server: xmws2.jxsk5.top
+    port: 3168
+    username: VoPFNA
+    password: m4US8R
+    udp: true
+  - name: "SK5-25"
     type: socks5
     server: gzot1.jxsk5.top
     port: 3168
