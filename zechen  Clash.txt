@@ -5,16 +5,6 @@ mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
 
-dns:
-  enable: true
-  listen: 0.0.0.0:53
-  nameserver:
-    - 223.5.5.5
-    - 114.114.114.114
-  fallback:
-    - 8.8.8.8
-  fake-ip-range: 198.18.0.1/16
-
 proxies:
   - name: "SK5-01"
     type: socks5
@@ -156,32 +146,3 @@ proxies:
     username: 3918778
     password: aa4f7bc27
     udp: true
-proxy-groups:
-  - name: "PROXY"
-    type: select
-    proxies:
-      - SK5-01
-      - SK5-02
-      - SK5-03
-      - SK5-04
-      - SK5-05
-      - SK5-06
-      - SK5-07
-      - SK5-08
-      - SK5-09
-      - SK5-10
-      - SK5-11
-      - SK5-12
-      - SK5-13
-      - SK5-14
-      - SK5-15
-      - SK5-16
-      - SK5-17
-      - SK5-18
-      - SK5-19
-      - SK5-20
-      - DIRECT
-      - REJECT
-
-rules:
-  - MATCH,PROXY
