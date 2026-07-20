@@ -146,3 +146,143 @@ proxies:
     username: 3918778
     password: aa4f7bc27
     udp: true
+  - name: "线路21"
+    type: socks5
+    server: 101.206.154.174
+    port: 9111
+    username: sAFHN1865537
+    password: 3689
+    udp: true
+  - name: "线路22"
+    type: socks5
+    server: 101.206.154.185
+    port: 9114
+    username: hinqT1865515
+    password: 3458
+    udp: true
+  - name: "线路23"
+    type: socks5
+    server: 61.241.136.148
+    port: 9112
+    username: aCJPT3865546
+    password: 1589
+    udp: true
+  - name: "线路24"
+    type: socks5
+    server: 39.145.24.195
+    port: 9108
+    username: cfkqG3865579
+    password: 2345
+    udp: true
+  - name: "线路25"
+    type: socks5
+    server: 153.3.245.221
+    port: 9115
+    username: nCELQY865529
+    password: 1238
+    udp: true
+  - name: "线路26"
+    type: socks5
+    server: 218.12.97.206
+    port: 9113
+    username: duxIX3865568
+    password: 1278
+    udp: true
+  - name: "线路27"
+    type: socks5
+    server: 123.6.98.78
+    port: 9110
+    username: jtuyE1865537
+    password: 3479
+    udp: true
+  - name: "线路28"
+    type: socks5
+    server: 183.204.59.117
+    port: 9103
+    username: biuAUX865529
+    password: 5679
+    udp: true
+  - name: "线路29"
+    type: socks5
+    server: 101.67.37.19
+    port: 9115
+    username: akoV18865548
+    password: 6789
+    udp: true
+  - name: "线路30"
+    type: socks5
+    server: 183.247.249.203
+    port: 9103
+    username: dkyCO4865569
+    password: 3456
+    udp: true
+  - name: "线路31"
+    type: socks5
+    server: 113.56.179.51
+    port: 9113
+    username: suBXY7865517
+    password: 2346
+    udp: true
+  - name: "线路32"
+    type: socks5
+    server: 116.162.33.99
+    port: 9106
+    username: dszMW8865578
+    password: 2457
+    udp: true
+  - name: "线路33"
+    type: socks5
+    server: 58.144.131.164
+    port: 9110
+    username: nsuwR6865559
+    password: 2456
+    udp: true
+  - name: "线路34"
+    type: socks5
+    server: 221.178.1.172
+    port: 9110
+    username: iJOQU6865525
+    password: 5689
+    udp: true
+  - name: "线路35"
+    type: socks5
+    server: 36.248.14.178
+    port: 9108
+    username: sACIMX865557
+    password: 1235
+    udp: true
+  - name: "线路36"
+    type: socks5
+    server: 124.95.227.239
+    port: 9111
+    username: dmpJXZ865523
+    password: 1789
+    udp: true
+  - name: "线路37"
+    type: socks5
+    server: 120.201.23.96
+    port: 9106
+    username: ctyCFM865523
+    password: 4789
+    udp: true
+  - name: "线路38"
+    type: socks5
+    server: 112.46.20.128
+    port: 9106
+    username: mvUV25865558
+    password: 1279
+    udp: true
+  - name: "线路39"
+    type: socks5
+    server: 101.206.154.174
+    port: 9111
+    username: copxP9865579
+    password: 2359
+    udp: true
+  - name: "线路40"
+    type: socks5
+    server: 112.46.20.128
+    port: 9106
+    username: kqsEW5865558
+    password: 1468
+    udp: true
