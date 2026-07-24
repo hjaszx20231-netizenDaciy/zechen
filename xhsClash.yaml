@@ -3,7 +3,6 @@ allow-lan: true
 mode: rule
 log-level: info
 external-controller: 127.0.0.1:9090
-
 proxies:
   - name: "SK5-01"
     type: socks5
@@ -285,213 +284,213 @@ proxies:
     username: kqsEW5865558
     password: 1468
     udp: true
-- name: "线路 41"
-  type: socks5
-  server: 36.139.204.238
-  port: 3168
-  username: rkA0Et
-  password: Mhqm9Q
-  udp: true
-- name: "线路 42"
-  type: socks5
-  server: 36.213.128.37
-  port: 3168
-  username: CqeeFX
-  password: 2sva9T
-  udp: true
-- name: "线路 43"
-  type: socks5
-  server: 36.134.117.93
-  port: 3168
-  username: Rpxlzb
-  password: IwPXgE
-  udp: true
-- name: "线路 44"
-  type: socks5
-  server: 36.134.118.141
-  port: 3168
-  username: 0TvNh1
-  password: C5Sy4q
-  udp: true
-- name: "线路 45"
-  type: socks5
-  server: 36.212.102.232
-  port: 3168
-  username: nus6zb
-  password: vDnBJw
-  udp: true
-- name: "线路 46"
-  type: socks5
-  server: 36.137.148.155
-  port: 3168
-  username: bzmd3S
-  password: SgPsg9
-  udp: true
-- name: "线路 47"
-  type: socks5
-  server: 36.137.148.188
-  port: 3168
-  username: QcpwNT
-  password: vGoDu7
-  udp: true
-- name: "线路 48"
-  type: socks5
-  server: 36.133.124.186
-  port: 3168
-  username: gqA2uQ
-  password: tdakG6
-  udp: true
-- name: "线路 49"
-  type: socks5
-  server: 36.140.179.109
-  port: 3168
-  username: UXkL3Q
-  password: XPWIyz
-  udp: true
-- name: "线路 50"
-  type: socks5
-  server: 36.213.97.96
-  port: 3168
-  username: e7NTUL
-  password: z9j3KA
-  udp: true
-- name: "线路 51"
-  type: socks5
-  server: 36.140.44.101
-  port: 3168
-  username: Agl4oZ
-  password: ztzC69
-  udp: true
-- name: "线路 52"
-  type: socks5
-  server: 36.137.145.41
-  port: 3168
-  username: b4kCha
-  password: oWfVe3
-  udp: true
-- name: "线路 53"
-  type: socks5
-  server: 36.133.130.124
-  port: 3168
-  username: 7FNCTe
-  password: mFCr8D
-  udp: true
-- name: "线路 54"
-  type: socks5
-  server: 36.137.100.48
-  port: 3168
-  username: N5QvIj
-  password: laObOi
-  udp: true
-- name: "线路 55"
-  type: socks5
-  server: 36.212.228.54
-  port: 3168
-  username: Tt8rCZ
-  password: tse7TH
-  udp: true
-- name: "线路 56"
-  type: socks5
-  server: 36.212.231.87
-  port: 3168
-  username: gbyVR3
-  password: nvun8y
-  udp: true
-- name: "线路 57"
-  type: socks5
-  server: 36.212.177.72
-  port: 3168
-  username: gd8vPv
-  password: YBWY9z
-  udp: true
-- name: "线路 58"
-  type: socks5
-  server: 36.137.229.149
-  port: 3168
-  username: 3p1bSD
-  password: x6YgIJ
-  udp: true
-- name: "线路 59"
-  type: socks5
-  server: 36.133.63.155
-  port: 3168
-  username: aVXWya
-  password: 38Gc4f
-  udp: true
-- name: "线路 60"
-  type: socks5
-  server: 36.134.95.234
-  port: 3168
-  username: 47bA1t
-  password: rPk2Lo
-  udp: true
-- name: "线路 61"
-  type: socks5
-  server: 36.213.19.107
-  port: 3168
-  username: TsesCd
-  password: TUzYUf
-  udp: true
-- name: "线路 62"
-  type: socks5
-  server: 36.139.143.26
-  port: 3168
-  username: CJ3XXk
-  password: 6seU3H
-  udp: true
-- name: "线路 63"
-  type: socks5
-  server: 36.137.141.204
-  port: 3168
-  username: VENJG8
-  password: cLj4s0
-  udp: true
-- name: "线路 64"
-  type: socks5
-  server: 36.134.181.27
-  port: 3168
-  username: FxTWEK
-  password: Fxmzac
-  udp: true
-- name: "线路 65"
-  type: socks5
-  server: 36.140.102.92
-  port: 3168
-  username: p6WGUa
-  password: rRQjxk
-  udp: true
-- name: "线路 66"
-  type: socks5
-  server: 36.140.119.153
-  port: 3168
-  username: bQe0jF
-  password: eMZFyO
-  udp: true
-- name: "线路 67"
-  type: socks5
-  server: 36.137.0.157
-  port: 3168
-  username: GTPUhD
-  password: 8qSqg0
-  udp: true
-- name: "线路 68"
-  type: socks5
-  server: 36.137.171.52
-  port: 3168
-  username: kiDOSF
-  password: Tk64Ym
-  udp: true
-- name: "线路 69"
-  type: socks5
-  server: 36.138.161.111
-  port: 3168
-  username: tS5ANh
-  password: r9RYjx
-  udp: true
-- name: "线路 70"
-  type: socks5
-  server: 36.138.161.155
-  port: 3168
-  username: Y9wfE3
-  password: csiu1C
-  udp: true
+  - name: "线路 41"
+    type: socks5
+    server: 36.139.204.238
+    port: 3168
+    username: rkA0Et
+    password: Mhqm9Q
+    udp: true
+  - name: "线路 42"
+    type: socks5
+    server: 36.213.128.37
+    port: 3168
+    username: CqeeFX
+    password: 2sva9T
+    udp: true
+  - name: "线路 43"
+    type: socks5
+    server: 36.134.117.93
+    port: 3168
+    username: Rpxlzb
+    password: IwPXgE
+    udp: true
+  - name: "线路 44"
+    type: socks5
+    server: 36.134.118.141
+    port: 3168
+    username: 0TvNh1
+    password: C5Sy4q
+    udp: true
+  - name: "线路 45"
+    type: socks5
+    server: 36.212.102.232
+    port: 3168
+    username: nus6zb
+    password: vDnBJw
+    udp: true
+  - name: "线路 46"
+    type: socks5
+    server: 36.137.148.155
+    port: 3168
+    username: bzmd3S
+    password: SgPsg9
+    udp: true
+  - name: "线路 47"
+    type: socks5
+    server: 36.137.148.188
+    port: 3168
+    username: QcpwNT
+    password: vGoDu7
+    udp: true
+  - name: "线路 48"
+    type: socks5
+    server: 36.133.124.186
+    port: 3168
+    username: gqA2uQ
+    password: tdakG6
+    udp: true
+  - name: "线路 49"
+    type: socks5
+    server: 36.140.179.109
+    port: 3168
+    username: UXkL3Q
+    password: XPWIyz
+    udp: true
+  - name: "线路 50"
+    type: socks5
+    server: 36.213.97.96
+    port: 3168
+    username: e7NTUL
+    password: z9j3KA
+    udp: true
+  - name: "线路 51"
+    type: socks5
+    server: 36.140.44.101
+    port: 3168
+    username: Agl4oZ
+    password: ztzC69
+    udp: true
+  - name: "线路 52"
+    type: socks5
+    server: 36.137.145.41
+    port: 3168
+    username: b4kCha
+    password: oWfVe3
+    udp: true
+  - name: "线路 53"
+    type: socks5
+    server: 36.133.130.124
+    port: 3168
+    username: 7FNCTe
+    password: mFCr8D
+    udp: true
+  - name: "线路 54"
+    type: socks5
+    server: 36.137.100.48
+    port: 3168
+    username: N5QvIj
+    password: laObOi
+    udp: true
+  - name: "线路 55"
+    type: socks5
+    server: 36.212.228.54
+    port: 3168
+    username: Tt8rCZ
+    password: tse7TH
+    udp: true
+  - name: "线路 56"
+    type: socks5
+    server: 36.212.231.87
+    port: 3168
+    username: gbyVR3
+    password: nvun8y
+    udp: true
+  - name: "线路 57"
+    type: socks5
+    server: 36.212.177.72
+    port: 3168
+    username: gd8vPv
+    password: YBWY9z
+    udp: true
+  - name: "线路 58"
+    type: socks5
+    server: 36.137.229.149
+    port: 3168
+    username: 3p1bSD
+    password: x6YgIJ
+    udp: true
+  - name: "线路 59"
+    type: socks5
+    server: 36.133.63.155
+    port: 3168
+    username: aVXWya
+    password: 38Gc4f
+    udp: true
+  - name: "线路 60"
+    type: socks5
+    server: 36.134.95.234
+    port: 3168
+    username: 47bA1t
+    password: rPk2Lo
+    udp: true
+  - name: "线路 61"
+    type: socks5
+    server: 36.213.19.107
+    port: 3168
+    username: TsesCd
+    password: TUzYUf
+    udp: true
+  - name: "线路 62"
+    type: socks5
+    server: 36.139.143.26
+    port: 3168
+    username: CJ3XXk
+    password: 6seU3H
+    udp: true
+  - name: "线路 63"
+    type: socks5
+    server: 36.137.141.204
+    port: 3168
+    username: VENJG8
+    password: cLj4s0
+    udp: true
+  - name: "线路 64"
+    type: socks5
+    server: 36.134.181.27
+    port: 3168
+    username: FxTWEK
+    password: Fxmzac
+    udp: true
+  - name: "线路 65"
+    type: socks5
+    server: 36.140.102.92
+    port: 3168
+    username: p6WGUa
+    password: rRQjxk
+    udp: true
+  - name: "线路 66"
+    type: socks5
+    server: 36.140.119.153
+    port: 3168
+    username: bQe0jF
+    password: eMZFyO
+    udp: true
+  - name: "线路 67"
+    type: socks5
+    server: 36.137.0.157
+    port: 3168
+    username: GTPUhD
+    password: 8qSqg0
+    udp: true
+  - name: "线路 68"
+    type: socks5
+    server: 36.137.171.52
+    port: 3168
+    username: kiDOSF
+    password: Tk64Ym
+    udp: true
+  - name: "线路 69"
+    type: socks5
+    server: 36.138.161.111
+    port: 3168
+    username: tS5ANh
+    password: r9RYjx
+    udp: true
+  - name: "线路 70"
+    type: socks5
+    server: 36.138.161.155
+    port: 3168
+    username: Y9wfE3
+    password: csiu1C
+    udp: true
