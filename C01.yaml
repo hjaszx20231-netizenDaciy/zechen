@@ -20,7 +20,7 @@ proxies:
     udp: true
   - name: "SK5-003"
     type: socks5
-    server: sdnk2.jxsk5.top
+    server: xmcz6.jxsk5.top
     port: 3168
     username: hs12349
     password: 123123
