@@ -559,7 +559,7 @@ proxies:
     udp: true
   - name: "SK5-080"
     type: socks5
-    server: 36.133.122.110
+    server: 36.139.143.124
     port: 3168
     username: aa12324
     password: 123123
