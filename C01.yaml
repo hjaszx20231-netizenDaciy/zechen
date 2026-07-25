@@ -167,7 +167,7 @@ proxies:
     udp: true
   - name: "SK5-024"
     type: socks5
-    server: 36.133.125.57
+    server: 36.140.67.141
     port: 3168
     username: aa12310
     password: 123123
@@ -244,7 +244,7 @@ proxies:
     udp: true
   - name: "SK5-035"
     type: socks5
-    server: 36.133.124.198
+    server: 36.137.144.215
     port: 3168
     username: hs1234
     password: 123123
