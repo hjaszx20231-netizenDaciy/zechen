@@ -1,0 +1,706 @@
+mixed-port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+proxies:
+  - name: "SK5-001"
+    type: socks5
+    server: shqp29.jxsk5.top
+    port: 3168
+    username: hs12347
+    password: 123123
+    udp: true
+  - name: "SK5-002"
+    type: socks5
+    server: xmoj8.jxsk5.top
+    port: 3168
+    username: hs12346
+    password: 123123
+    udp: true
+  - name: "SK5-003"
+    type: socks5
+    server: sdnk2.jxsk5.top
+    port: 3168
+    username: hs12349
+    password: 123123
+    udp: true
+  - name: "SK5-004"
+    type: socks5
+    server: gzez17.jxsk5.top
+    port: 3168
+    username: hs12344
+    password: 123123
+    udp: true
+  - name: "SK5-005"
+    type: socks5
+    server: xmjz19.jxsk5.top
+    port: 3168
+    username: hs12340
+    password: 123123
+    udp: true
+  - name: "SK5-006"
+    type: socks5
+    server: xjuf18.jxsk5.top
+    port: 3168
+    username: hs12341
+    password: 123123
+    udp: true
+  - name: "SK5-007"
+    type: socks5
+    server: gh2.jxsk5.top
+    port: 3168
+    username: hs12343
+    password: 123123
+    udp: true
+  - name: "SK5-008"
+    type: socks5
+    server: gzyv18.jxsk5.top
+    port: 3168
+    username: hs12339
+    password: 123123
+    udp: true
+  - name: "SK5-009"
+    type: socks5
+    server: hzsd28.jxsk5.top
+    port: 3168
+    username: hs12348
+    password: 123123
+    udp: true
+  - name: "SK5-010"
+    type: socks5
+    server: shoz16.jxsk5.top
+    port: 3168
+    username: hs12342
+    password: 123123
+    udp: true
+  - name: "SK5-011"
+    type: socks5
+    server: gyxs9.jxsk5.top
+    port: 3168
+    username: hs12345
+    password: 123123
+    udp: true
+  - name: "SK5-012"
+    type: socks5
+    server: sztp1.jxsk5.top
+    port: 3168
+    username: hs12328
+    password: 123123
+    udp: true
+  - name: "SK5-013"
+    type: socks5
+    server: szgs6.jxsk5.top
+    port: 3168
+    username: hs12335
+    password: 123123
+    udp: true
+  - name: "SK5-014"
+    type: socks5
+    server: gyjs4.jxsk5.top
+    port: 3168
+    username: hs12337
+    password: 123123
+    udp: true
+  - name: "SK5-015"
+    type: socks5
+    server: cdyf8.jxsk5.top
+    port: 3168
+    username: hs12331
+    password: 123123
+    udp: true
+  - name: "SK5-016"
+    type: socks5
+    server: sdiv26.jxsk5.top
+    port: 3168
+    username: hs12338
+    password: 123123
+    udp: true
+  - name: "SK5-017"
+    type: socks5
+    server: GZio11.jxsk5.top
+    port: 3168
+    username: hs12327
+    password: 123123
+    udp: true
+  - name: "SK5-018"
+    type: socks5
+    server: an18.jxsk5.top
+    port: 3168
+    username: hs12330
+    password: 123123
+    udp: true
+  - name: "SK5-019"
+    type: socks5
+    server: zoa58.jxsk5.top
+    port: 3168
+    username: hs12336
+    password: 123123
+    udp: true
+  - name: "SK5-020"
+    type: socks5
+    server: gyqk5.jxsk5.top
+    port: 3168
+    username: hs12334
+    password: 123123
+    udp: true
+  - name: "SK5-021"
+    type: socks5
+    server: CDfk20.jxsk5.top
+    port: 3168
+    username: hs12329
+    password: 123123
+    udp: true
+  - name: "SK5-022"
+    type: socks5
+    server: sdwq11.jxsk5.top
+    port: 3168
+    username: hs12333
+    password: 123123
+    udp: true
+  - name: "SK5-023"
+    type: socks5
+    server: xmnb2.jxsk5.top
+    port: 3168
+    username: hs12332
+    password: 123123
+    udp: true
+  - name: "SK5-024"
+    type: socks5
+    server: 36.133.125.57
+    port: 3168
+    username: aa12310
+    password: 123123
+    udp: true
+  - name: "SK5-025"
+    type: socks5
+    server: 36.134.181.122
+    port: 3168
+    username: aa1238
+    password: 123123
+    udp: true
+  - name: "SK5-026"
+    type: socks5
+    server: 36.213.97.12
+    port: 3168
+    username: aa12345
+    password: 123123
+    udp: true
+  - name: "SK5-027"
+    type: socks5
+    server: 36.213.128.126
+    port: 3168
+    username: hs12320
+    password: 123123
+    udp: true
+  - name: "SK5-028"
+    type: socks5
+    server: 36.139.140.191
+    port: 3168
+    username: aa12339
+    password: 123123
+    udp: true
+  - name: "SK5-029"
+    type: socks5
+    server: 36.139.149.248
+    port: 3168
+    username: hs12311
+    password: 123123
+    udp: true
+  - name: "SK5-030"
+    type: socks5
+    server: 36.138.84.226
+    port: 3168
+    username: aa1237
+    password: 123123
+    udp: true
+  - name: "SK5-031"
+    type: socks5
+    server: 36.137.148.233
+    port: 3168
+    username: hs1232
+    password: 123123
+    udp: true
+  - name: "SK5-032"
+    type: socks5
+    server: 36.137.172.2
+    port: 3168
+    username: aa12314
+    password: 123123
+    udp: true
+  - name: "SK5-033"
+    type: socks5
+    server: 36.134.116.181
+    port: 3168
+    username: aa12343
+    password: 123123
+    udp: true
+  - name: "SK5-034"
+    type: socks5
+    server: 36.137.229.163
+    port: 3168
+    username: hs12315
+    password: 123123
+    udp: true
+  - name: "SK5-035"
+    type: socks5
+    server: 36.133.124.198
+    port: 3168
+    username: hs1234
+    password: 123123
+    udp: true
+  - name: "SK5-036"
+    type: socks5
+    server: 36.133.61.9
+    port: 3168
+    username: aa12348
+    password: 123123
+    udp: true
+  - name: "SK5-037"
+    type: socks5
+    server: 36.138.74.75
+    port: 3168
+    username: hs12312
+    password: 123123
+    udp: true
+  - name: "SK5-038"
+    type: socks5
+    server: 36.213.128.84
+    port: 3168
+    username: aa12342
+    password: 123123
+    udp: true
+  - name: "SK5-039"
+    type: socks5
+    server: 36.212.42.236
+    port: 3168
+    username: hs12317
+    password: 123123
+    udp: true
+  - name: "SK5-040"
+    type: socks5
+    server: 36.140.44.13
+    port: 3168
+    username: aa12336
+    password: 123123
+    udp: true
+  - name: "SK5-041"
+    type: socks5
+    server: 36.137.229.122
+    port: 3168
+    username: hs12325
+    password: 123123
+    udp: true
+  - name: "SK5-042"
+    type: socks5
+    server: 36.137.172.241
+    port: 3168
+    username: aa12346
+    password: 123123
+    udp: true
+  - name: "SK5-043"
+    type: socks5
+    server: 36.138.74.46
+    port: 3168
+    username: aa1236
+    password: 123123
+    udp: true
+  - name: "SK5-044"
+    type: socks5
+    server: 36.134.119.77
+    port: 3168
+    username: aa123
+    password: 123123
+    udp: true
+  - name: "SK5-045"
+    type: socks5
+    server: 36.133.104.53
+    port: 3168
+    username: aa12313
+    password: 123123
+    udp: true
+  - name: "SK5-046"
+    type: socks5
+    server: 36.213.140.121
+    port: 3168
+    username: hs12324
+    password: 123123
+    udp: true
+  - name: "SK5-047"
+    type: socks5
+    server: 36.137.144.225
+    port: 3168
+    username: hs1236
+    password: 123123
+    udp: true
+  - name: "SK5-048"
+    type: socks5
+    server: 36.212.218.109
+    port: 3168
+    username: aa12337
+    password: 123123
+    udp: true
+  - name: "SK5-049"
+    type: socks5
+    server: 36.134.118.201
+    port: 3168
+    username: hs1237
+    password: 123123
+    udp: true
+  - name: "SK5-050"
+    type: socks5
+    server: 36.212.220.195
+    port: 3168
+    username: aa12340
+    password: 123123
+    udp: true
+  - name: "SK5-051"
+    type: socks5
+    server: 36.133.124.92
+    port: 3168
+    username: aa12327
+    password: 123123
+    udp: true
+  - name: "SK5-052"
+    type: socks5
+    server: 36.133.63.23
+    port: 3168
+    username: aa12326
+    password: 123123
+    udp: true
+  - name: "SK5-053"
+    type: socks5
+    server: 36.140.102.75
+    port: 3168
+    username: aa12341
+    password: 123123
+    udp: true
+  - name: "SK5-054"
+    type: socks5
+    server: 36.134.181.212
+    port: 3168
+    username: aa12335
+    password: 123123
+    udp: true
+  - name: "SK5-055"
+    type: socks5
+    server: 36.212.128.184
+    port: 3168
+    username: hs12323
+    password: 123123
+    udp: true
+  - name: "SK5-056"
+    type: socks5
+    server: 36.212.44.92
+    port: 3168
+    username: aa12318
+    password: 123123
+    udp: true
+  - name: "SK5-057"
+    type: socks5
+    server: 36.138.54.196
+    port: 3168
+    username: aa12328
+    password: 123123
+    udp: true
+  - name: "SK5-058"
+    type: socks5
+    server: 36.134.181.247
+    port: 3168
+    username: aa1231
+    password: 123123
+    udp: true
+  - name: "SK5-059"
+    type: socks5
+    server: 36.137.172.10
+    port: 3168
+    username: aa12330
+    password: 123123
+    udp: true
+  - name: "SK5-060"
+    type: socks5
+    server: 36.133.61.76
+    port: 3168
+    username: hs12326
+    password: 123123
+    udp: true
+  - name: "SK5-061"
+    type: socks5
+    server: 36.134.181.184
+    port: 3168
+    username: hs1231
+    password: 123123
+    udp: true
+  - name: "SK5-062"
+    type: socks5
+    server: 36.139.140.87
+    port: 3168
+    username: aa12317
+    password: 123123
+    udp: true
+  - name: "SK5-063"
+    type: socks5
+    server: 36.137.172.251
+    port: 3168
+    username: aa1233
+    password: 123123
+    udp: true
+  - name: "SK5-064"
+    type: socks5
+    server: 36.137.144.217
+    port: 3168
+    username: hs12313
+    password: 123123
+    udp: true
+  - name: "SK5-065"
+    type: socks5
+    server: 36.133.239.110
+    port: 3168
+    username: aa12319
+    password: 123123
+    udp: true
+  - name: "SK5-066"
+    type: socks5
+    server: 36.212.141.78
+    port: 3168
+    username: aa1239
+    password: 123123
+    udp: true
+  - name: "SK5-067"
+    type: socks5
+    server: 36.213.128.223
+    port: 3168
+    username: aa12325
+    password: 123123
+    udp: true
+  - name: "SK5-068"
+    type: socks5
+    server: 36.137.144.4
+    port: 3168
+    username: hs12321
+    password: 123123
+    udp: true
+  - name: "SK5-069"
+    type: socks5
+    server: 36.212.47.124
+    port: 3168
+    username: hs12316
+    password: 123123
+    udp: true
+  - name: "SK5-070"
+    type: socks5
+    server: 36.134.159.13
+    port: 3168
+    username: aa12311
+    password: 123123
+    udp: true
+  - name: "SK5-071"
+    type: socks5
+    server: 36.140.28.245
+    port: 3168
+    username: hs123
+    password: 123123
+    udp: true
+  - name: "SK5-072"
+    type: socks5
+    server: 36.140.119.198
+    port: 3168
+    username: aa12316
+    password: 123123
+    udp: true
+  - name: "SK5-073"
+    type: socks5
+    server: 36.213.140.78
+    port: 3168
+    username: aa12315
+    password: 123123
+    udp: true
+  - name: "SK5-074"
+    type: socks5
+    server: 36.140.119.247
+    port: 3168
+    username: hs12322
+    password: 123123
+    udp: true
+  - name: "SK5-075"
+    type: socks5
+    server: 36.140.118.102
+    port: 3168
+    username: aa12322
+    password: 123123
+    udp: true
+  - name: "SK5-076"
+    type: socks5
+    server: 36.212.47.160
+    port: 3168
+    username: aa12323
+    password: 123123
+    udp: true
+  - name: "SK5-077"
+    type: socks5
+    server: 36.137.229.204
+    port: 3168
+    username: aa12333
+    password: 123123
+    udp: true
+  - name: "SK5-078"
+    type: socks5
+    server: 36.134.95.28
+    port: 3168
+    username: aa12320
+    password: 123123
+    udp: true
+  - name: "SK5-079"
+    type: socks5
+    server: 36.140.119.72
+    port: 3168
+    username: aa1234
+    password: 123123
+    udp: true
+  - name: "SK5-080"
+    type: socks5
+    server: 36.133.122.110
+    port: 3168
+    username: aa12324
+    password: 123123
+    udp: true
+  - name: "SK5-081"
+    type: socks5
+    server: 36.138.74.192
+    port: 3168
+    username: aa12338
+    password: 123123
+    udp: true
+  - name: "SK5-082"
+    type: socks5
+    server: 36.137.165.83
+    port: 3168
+    username: hs12310
+    password: 123123
+    udp: true
+  - name: "SK5-083"
+    type: socks5
+    server: 36.134.117.194
+    port: 3168
+    username: aa12329
+    password: 123123
+    udp: true
+  - name: "SK5-084"
+    type: socks5
+    server: 36.212.102.121
+    port: 3168
+    username: aa12331
+    password: 123123
+    udp: true
+  - name: "SK5-085"
+    type: socks5
+    server: 36.133.122.143
+    port: 3168
+    username: hs12319
+    password: 123123
+    udp: true
+  - name: "SK5-086"
+    type: socks5
+    server: 36.139.143.135
+    port: 3168
+    username: aa1235
+    password: 123123
+    udp: true
+  - name: "SK5-087"
+    type: socks5
+    server: 36.212.140.147
+    port: 3168
+    username: aa12321
+    password: 123123
+    udp: true
+  - name: "SK5-088"
+    type: socks5
+    server: 36.139.204.108
+    port: 3168
+    username: aa12334
+    password: 123123
+    udp: true
+  - name: "SK5-089"
+    type: socks5
+    server: 36.133.255.86
+    port: 3168
+    username: hs12314
+    password: 123123
+    udp: true
+  - name: "SK5-090"
+    type: socks5
+    server: 36.137.145.40
+    port: 3168
+    username: aa12332
+    password: 123123
+    udp: true
+  - name: "SK5-091"
+    type: socks5
+    server: 36.137.0.83
+    port: 3168
+    username: aa1232
+    password: 123123
+    udp: true
+  - name: "SK5-092"
+    type: socks5
+    server: 36.139.143.136
+    port: 3168
+    username: aa12349
+    password: 123123
+    udp: true
+  - name: "SK5-093"
+    type: socks5
+    server: 36.213.128.170
+    port: 3168
+    username: aa12312
+    password: 123123
+    udp: true
+  - name: "SK5-094"
+    type: socks5
+    server: 36.139.149.242
+    port: 3168
+    username: aa12347
+    password: 123123
+    udp: true
+  - name: "SK5-095"
+    type: socks5
+    server: 36.134.95.34
+    port: 3168
+    username: hs1239
+    password: 123123
+    udp: true
+  - name: "SK5-096"
+    type: socks5
+    server: 36.137.247.69
+    port: 3168
+    username: aa12344
+    password: 123123
+    udp: true
+  - name: "SK5-097"
+    type: socks5
+    server: 36.140.14.123
+    port: 3168
+    username: hs1238
+    password: 123123
+    udp: true
+  - name: "SK5-098"
+    type: socks5
+    server: 36.212.138.90
+    port: 3168
+    username: hs1233
+    password: 123123
+    udp: true
+  - name: "SK5-099"
+    type: socks5
+    server: 36.140.118.182
+    port: 3168
+    username: hs1235
+    password: 123123
+    udp: true
+  - name: "SK5-100"
+    type: socks5
+    server: 36.137.172.194
+    port: 3168
+    username: hs12318
+    password: 123123
+    udp: true
