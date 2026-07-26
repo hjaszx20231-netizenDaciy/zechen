@@ -1,0 +1,111 @@
+mixed-port: 7890
+allow-lan: true
+mode: rule
+log-level: info
+external-controller: 127.0.0.1:9090
+proxies:
+  - name: "SK5-01"
+    type: socks5
+    server: s104738.ips5.vip
+    port: 9125
+    username: 3918777
+    password: ac88afa31
+    udp: true
+  - name: "SK5-02"
+    type: socks5
+    server: s55219.ips5.vip
+    port: 9125
+    username: 3918776
+    password: a6276c43d
+    udp: true
+  - name: "SK5-03"
+    type: socks5
+    server: s34345.ips5.vip
+    port: 9125
+    username: 3918775
+    password: ab031f154
+    udp: true
+  - name: "SK5-04"
+    type: socks5
+    server: xmws2.jxsk5.top
+    port: 3168
+    username: VoPFNA
+    password: m4US8R
+    udp: true
+  - name: "SK5-05"
+    type: socks5
+    server: gzot1.jxsk5.top
+    port: 3168
+    username: hjaszx
+    password: 112233
+    udp: true
+  - name: "SK5-06"
+    type: socks5
+    server: 140.249.234.230
+    port: 2729
+    username: aa111222
+    password: 111222
+    udp: true
+  - name: "SK5-07"
+    type: socks5
+    server: 106.225.190.129
+    port: 9111
+    username: aa111222
+    password: 111222
+    udp: true
+  - name: "SK5-08"
+    type: socks5
+    server: 223.242.44.151
+    port: 8511
+    username: aa111222
+    password: 111222
+    udp: true
+  - name: "SK5-09"
+    type: socks5
+    server: 175.6.219.199
+    port: 7522
+    username: aa111222
+    password: 111222
+    udp: true
+  - name: "SK5-10"
+    type: socks5
+    server: 175.12.86.29
+    port: 6833
+    username: aa111222
+    password: 111222
+    udp: true
+  - name: "SK5-11"
+    type: socks5
+    server: 202.100.73.54
+    port: 9181
+    username: aa111222
+    password: 111222
+    udp: true
+  - name: "SK5-12"
+    type: socks5
+    server: 124.236.78.177
+    port: 5477
+    username: aa111222
+    password: 111222
+    udp: true
+  - name: "SK5-13"
+    type: socks5
+    server: 125.64.110.48
+    port: 1287
+    username: aa111222
+    password: 111222
+    udp: true
+  - name: "SK5-14"
+    type: socks5
+    server: 42.101.81.80
+    port: 5212
+    username: aa111222
+    password: 111222
+    udp: true
+  - name: "SK5-15"
+    type: socks5
+    server: 175.12.87.247
+    port: 1890
+    username: aa111222
+    password: 111222
+    udp: true
