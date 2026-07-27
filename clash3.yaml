@@ -21,7 +21,7 @@ proxies:
     udp: true
   - name: "SK5-03"
     type: socks5
-    server: 223.244.38.199
+    server: 223.244.37.50
     port: 9125
     username: 3918795
     password: a02f837c9
