@@ -6,7 +6,7 @@ external-controller: 127.0.0.1:9090
 proxies:
   - name: "SK5-001"
     type: socks5
-    server: shqp29.jxsk5.top
+    server: shdx2.jxsk5.top
     port: 3168
     username: hs12347
     password: 123123
@@ -41,7 +41,7 @@ proxies:
     udp: true
   - name: "SK5-006"
     type: socks5
-    server: xjuf18.jxsk5.top
+    server: bjli26.jxsk5.top
     port: 3168
     username: hs12341
     password: 123123
@@ -62,7 +62,7 @@ proxies:
     udp: true
   - name: "SK5-009"
     type: socks5
-    server: hzsd28.jxsk5.top
+    server: zqv15.jxsk5.top
     port: 3168
     username: hs12348
     password: 123123
@@ -132,7 +132,7 @@ proxies:
     udp: true
   - name: "SK5-019"
     type: socks5
-    server: zoa58.jxsk5.top
+    server: csuc13.jxsk5.top
     port: 3168
     username: hs12336
     password: 123123
@@ -146,7 +146,7 @@ proxies:
     udp: true
   - name: "SK5-021"
     type: socks5
-    server: CDfk20.jxsk5.top
+    server: xmzl21.jxsk5.top
     port: 3168
     username: hs12329
     password: 123123
@@ -160,7 +160,7 @@ proxies:
     udp: true
   - name: "SK5-023"
     type: socks5
-    server: xmnb2.jxsk5.top
+    server: bjva10.jxsk5.top
     port: 3168
     username: hs12332
     password: 123123
@@ -188,14 +188,14 @@ proxies:
     udp: true
   - name: "SK5-027"
     type: socks5
-    server: 36.213.128.126
+    server: 36.213.19.83
     port: 3168
     username: hs12320
     password: 123123
     udp: true
   - name: "SK5-028"
     type: socks5
-    server: 36.139.140.191
+    server: 36.140.102.6
     port: 3168
     username: aa12339
     password: 123123
@@ -272,7 +272,7 @@ proxies:
     udp: true
   - name: "SK5-039"
     type: socks5
-    server: 36.212.42.236
+    server: 36.137.144.241
     port: 3168
     username: hs12317
     password: 123123
@@ -335,14 +335,14 @@ proxies:
     udp: true
   - name: "SK5-048"
     type: socks5
-    server: 36.212.218.109
+    server: 36.134.181.91
     port: 3168
     username: aa12337
     password: 123123
     udp: true
   - name: "SK5-049"
     type: socks5
-    server: 36.134.118.201
+    server: 36.140.102.59
     port: 3168
     username: hs1237
     password: 123123
@@ -419,21 +419,21 @@ proxies:
     udp: true
   - name: "SK5-060"
     type: socks5
-    server: 36.133.61.76
+    server: 36.140.119.254
     port: 3168
     username: hs12326
     password: 123123
     udp: true
   - name: "SK5-061"
     type: socks5
-    server: 36.134.181.184
+    server: 36.138.90.193
     port: 3168
     username: hs1231
     password: 123123
     udp: true
   - name: "SK5-062"
     type: socks5
-    server: 36.139.140.87
+    server: 36.134.111.206
     port: 3168
     username: aa12317
     password: 123123
@@ -517,7 +517,7 @@ proxies:
     udp: true
   - name: "SK5-074"
     type: socks5
-    server: 36.140.119.247
+    server: 36.139.140.139
     port: 3168
     username: hs12322
     password: 123123
@@ -566,7 +566,7 @@ proxies:
     udp: true
   - name: "SK5-081"
     type: socks5
-    server: 36.138.74.192
+    server: 36.134.159.225
     port: 3168
     username: aa12338
     password: 123123
@@ -587,7 +587,7 @@ proxies:
     udp: true
   - name: "SK5-084"
     type: socks5
-    server: 36.212.102.121
+    server: 36.213.140.134
     port: 3168
     username: aa12331
     password: 123123
@@ -608,7 +608,7 @@ proxies:
     udp: true
   - name: "SK5-087"
     type: socks5
-    server: 36.212.140.147
+    server: 36.140.119.225
     port: 3168
     username: aa12321
     password: 123123
